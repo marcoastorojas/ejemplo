@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola a todos todo bien
+=======
+hola a todos todo mal
+>>>>>>> eaac74fd8393bd3c30cec42bde3233c34011eb86
